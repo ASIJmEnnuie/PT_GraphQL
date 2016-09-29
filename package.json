@@ -1,0 +1,32 @@
+{
+  "name": "perceegraphql",
+  "version": "1.0.0",
+  "description": "Percée technique GraphQL avec Relay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASIJmEnnuie/PT_GraphQL.git"
+  },
+  "keywords": [],
+  "author": "maeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASIJmEnnuie/PT_GraphQL/issues"
+  },
+  "homepage": "https://github.com/ASIJmEnnuie/PT_GraphQL#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.16.0",
+    "babel-register": "^6.16.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-graphql": "^0.5.4",
+    "graphiql": "^0.7.8",
+    "graphql": "^0.7.1"
+  },
+  "devDependencies": {}
+}
