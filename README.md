@@ -2,16 +2,23 @@
 
 
 # PT_GraphQL
-Percée technique GraphQL avec Relay
+* Percée technique GraphQL avec Relay
 
 
 # Pré-requis
-babel-cli
-babel-register
-express
-express-graphql
-graphql
+* babel-cli
+* babel-register
+* express
+* express-graphql
+* graphql
 
 # Installation
-$ npm install
-$ npm start
+* $ npm install
+* $ npm start
+
+
+# Utilisation
+* Via terminal :
+*
+* Via localhost:8080
+*
